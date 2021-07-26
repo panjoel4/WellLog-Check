@@ -10,7 +10,7 @@ For you who hasn't work with python enough, I compiled my codes and you can easi
 All you need is to do is download the lasCheck.py, requirements.txt and alias.json under the files sub-folder, put the files at the same folder of your jupyter-notebook ipynb file.
 And then you can do this on your jupyter notebook:
 
-1.) install the all libraries required as follow
+1.) install the all libraries required
 ```
 ! pip install -r requirements.txt
 ```
