@@ -5,6 +5,7 @@ In this repository, I will use the glob library to access the .LAS files and che
 
 Please check the jupyter notebook file titled logCheck.ipynb to see how I use the glob library on reviewing the log availability of my dataset. You can also check the report exported to xlsx files under the report sub-folder.
 
+## Try it on your own
 For you who hasn't work with python enough, I compiled my codes and you can easily use the code and apply to your directory by your own.
 All you need is to do is download the lasCheck.py and alias.json under the files sub-folder, put the files at the same folder of your jupyter-notebook ipynb file.
 And then you can do this on your jupyter notebook:
