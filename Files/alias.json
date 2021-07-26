@@ -1,0 +1,23 @@
+{
+    "CAL": ["C1", "C1S", "C2", "CAL1R", "CAL1R_R", "CALD", "CALI", "CALI_1", "CALI_2", "CALI_SCPS", "CALR", "CALS", "CALSR", "CALSR_R", "CALX", "DCAL", "HCAL", "HCAL2R", "HCALD", "HCALR", "HCALS", "HCAL_1", "HCAL_2", "HCGRR", "HD", "HD1", "HD2", "HDS", "HSGRR", "LCAL", "LCALD", "LCALR", "LCAL_1"],
+    "GR": ["CGR", "CGRD", "CGRR", "CGRS", "ECGR", "ECGRD", "ECGREDTC", "ECGRR", "ECGRS", "GR", "GRC", "GRD", "GRD1", "GRD_1", "GRN", "GRR", "GRR_R", "GRR_R1", "GRR_R2", "GRS", "GRS1", "GRT", "GR_1", "GR_EDTC", "GR_STGC", "HCGR", "HCGRD", "HCGRS", "HGRT", "HSGR", "HSGRD", "HSGRS", "MSGRR", "SGR", "SGRD", "SGRDD", "SGRR", "SGRS"],
+    "SP": ["SPR"],
+    "PEF": ["PE", "PEF", "PEFL", "PEFS", "PEFZ", "PEF_SLDT"],
+    "GR_OTHER": ["HFK", "HTHO", "HURA", "THOR", "URAN", "CGRRPOTA"],
+    "DENS": ["RHOM", "RHOB", "RHOB_SLDT", "RHOZ", "ZDEN"],
+    "POR_OTHER": ["APLCLS", "APLC_LS", "NRHO", "PHIND_LS", "PHIX", "PHND_LS", "PORS_LS", "PXND", "SPHI", "SPHILS", "SPHI_LS", "SPHI_SS", "NEUT"],
+    "POR": ["CNC", "CNC_LS", "CNPOR_LS", "DPHZLS", "DPHZ_SS", "DPO", "ENPH_LS", "NPHI", "NPHI1", "NPHILS_1", "NPHILs", "NPHI_LS", "NPHI_LS_1", "NPHS", "NPOR", "NPORLS", "NPOR_LS", "SNP", "TNPH", "TNPH_LIM", "TNPH_LS", "TNPH_SS", "TNPJ_LS_1", "TPHI_LS", "DPHI", "DPHI_LS", "DPHI_LS", "DPHI_SLDT", "DPHZ", "DPHZ2", "DPHZ_LS", "DPO", "DPOR", "DPOR_LS", "DPO_LS", "PORZ", "PORZ_LS", "PHIND_LS", "PHIX", "PHND_LS", "PORS_LS", "PXND", "SPHI", "SPHILS", "SPHI_LS", "SPHI_SS"],
+    "DRES": ["AE90", "AF60", "AF90", "AHF60", "AHFCO60", "AHT60", "AHT90", "AO60", "AO90", "AST90", "AT60", "AT90", "CILD", "HLLD", "HRID", "IDPC", "IDPH", "ILD", "ILD1", "ILD_1", "LLD", "LLD_R", "LLD_R1", "LLD_R2", "RILD", "RLA4", "RLA5", "RT_HRLT", "TBI60", "TBIT90"],
+    "MRES": ["AE30", "AST30", "AT30", "HRIM", "ILM", "ILM_1", "IMBC", "IMPH", "RLA4"],
+    "SRES": ["AE10", "AE20", "AF10", "AF20", "AF30", "AHF20", "AHT10", "AHT20", "AHT30", "AST10", "AT10", "AT20", "HLLS", "LLS", "LLS_R", "LLS_R1", "LLS_R2", "RLA3", "TBIT20", "TBIT30"],
+    "RXO": ["HMIN", "HMNO", "MGUARD", "MSFL", "MSFL_R", "RLA1", "RLA2", "RXO8", "RXOZ", "RXOZ_R", "RXO_HRLT", "SFL", "SFLA", "SFLU", "SFLU_1", "SFLU_1"],
+    "CO": ["AFCO", "AFCO60", "CIDP"],
+    "DTCO": ["DTCO", "DT", "DTC"],
+    "DEPT": ["DEPTH", "DEPTH_MD", "DEPT_MD"],
+    "DTSM": ["DTSM"],
+    "DT_OTHER": ["DTM", "DTSH"],
+    "DRHO": ["CORR", "DRH", "DRHO", "HDRA", "QRHO", "QRHO_SLDT", "DCOR", "ZCOR"],
+    "PR": ["PR"],
+    "VPVS": ["PYR", "VPVS", "VPVS_X", "VPVS_Y"],
+    "OTHERS": ["CBL", "CIRF_FIL", "DEVI", "GRATIO", "GTEM", "HD1_PPC1", "HD2_PPC1", "HD2_PPC2", "LTEN", "RB", "ROP", "SIGMA", "STIT", "TEN", "TEND", "TEND1", "TEND_1", "TENR", "TENR", "TENR_R", "TENR_R1", "TENR_R2", "TENS", "TENS1", "TENT", "WTEP"]
+}
