@@ -22,7 +22,7 @@ from lasCheck import *
 ```
 #define the logs that we are interested in our las files, select based on the alias name on the JSON file
 logs_selected= ['CAL', 'RXO', 'GR', 'POR', 'DRES', 'DT', 'DENS', 'DRHO'] 
-filepath=r'C:\Users\Henky\JUPYTER\logChecker\**\*.las'
+filepath=r'D:\logChecker\**\*.las'
 
 #call the functions
 logcheck=lasCheck(filepath)
