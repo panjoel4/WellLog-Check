@@ -28,7 +28,11 @@ filepath=r'C:\Users\Henky\JUPYTER\logChecker\**\*.las'
 logcheck=lasCheck(filepath)
 logs_checked=logcheck.report(logs_selected)
 ```
-
+4.) Finally, you can export the report to excel file using pandas.
+```
+logs_checked.to_excel("log checklist.xlsx")
+```
+![alt text](https://github.com/panjoel4/WellLog-Check/blob/main/Files/report%20in%20xlsx.PNG?raw=true)
 For step-by-step instruction you can follow this [Try on your own](https://github.com/panjoel4/WellLog-Check/blob/main/Jupyter-Notebook/Try%20it%20on%20your%20own.ipynb) notebook.
 
 Feel free to fork or pull this repository to improve the codes. 
