@@ -1,7 +1,7 @@
 # WellLog-Check
 This repository is inspired by my very first python code I wrote back in my scripting and data handling class during my MSc study. I used the glob library to access multiple files under folders and subfolders.
 
-In this repository, I will use the glob library to access the .LAS files and check the log availability on my files with [lasio](https://lasio.readthedocs.io/en/latest/installation.html). Based on my experiences, sometimes the new well logs given were not accompanied with the availability checklist. I hope this repository could be useful for the your future needs.
+Based on my experiences, sometimes the well logs given to us were not accompanied with the log availability checklist. So, I decided to write this code to automatically explore through folders and create report on xlsx format. I hope this repository could be useful for the your future needs. In this repository, I will use the glob library to access the .LAS files and check the log availability on my files with [lasio](https://lasio.readthedocs.io/en/latest/installation.html). 
 
 Please check the jupyter notebook file titled logCheck.ipynb to see how I use the glob library on reviewing the log availability of my dataset. You can also check the report exported to xlsx files under the report sub-folder.
 
