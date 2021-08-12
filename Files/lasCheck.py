@@ -8,7 +8,6 @@ import pandas as pd
 class lasCheck:
     def __init__ (self, filepath):
         self.filepath=filepath
-        #self.filepath
     def report(self, logs_selected):
         self.logs_selected=logs_selected
         with open('alias.json') as file:
